@@ -1,0 +1,13 @@
+1. Heroku links: https://cse341-node-michie.herokuapp.com/
+https://cse341-kinamichie.herokuapp.com/
+
+2. Github links: 
+https://github.com/kinamichie/cse341-node
+https://github.com/kinamichie/cse341-project
+
+3. I have a larger form in the add-product area with required fields and the information goes into it and displays on the Shop page. I used ejs templating and used includes for my partials. I was not able to get a simple delete function to work on it. I got it on my team project, but without a json file or a database I was unsure about how to do that with the complexity of the project.
+4. My delete is not working. I was unable to connect my node to my project. Everything else is working.
+5. The "coolest" thing I learned from this assignment was working with partials.
+6. I would like to see a more indepth instruction on how to link my project to the project portal for this class. With it being in two repositories, I wasn't able to understand how to do that.
+7. 4
+8. I didn't go above and beyond this week since I had so many issues with Heroku and trying to figure out how to link my node to my project folder. That was a fail. However, my actual project is working well and I was able add some of the stretch requirements to it.

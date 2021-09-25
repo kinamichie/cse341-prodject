@@ -69,11 +69,8 @@ return req.on('end', () => {
          res.setHeader('Location', '/');
         return res.end();   
     });
-
 }); 
 }); 
-
-
 
 // CORE CHALLENGE 3 -
 router.get('/add-activity', (req, res, next) => {
