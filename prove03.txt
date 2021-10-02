@@ -1,0 +1,13 @@
+1. Heroku links: https://cse341-node-michie.herokuapp.com/
+https://cse341-kinamichie.herokuapp.com/
+
+2. Github links: 
+https://github.com/kinamichie/cse341-node
+https://github.com/kinamichie/cse341-project
+
+3. I have changed my site to MVC architecture and an using a Json file to hole my data. I have implemented dynamic routes and paths.
+4. So far everything is working that I have received instruction on except changing the folder structure on my homework hub. Each time I tried to follow the direction to do that, my program would crash.
+5. The coolest thing I learned this week was how to structure the MVC and work with all the routes.
+6. This assignment was good this week. 
+7. 4
+8. I understand the routes and the logic behind everything. I just have had trouble re-routing the homework hub. I have my team assignments in there, but not my prove assignments.
