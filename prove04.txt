@@ -1,0 +1,13 @@
+1. Heroku links: https://cse341-node-michie.herokuapp.com/
+https://cse341-kinamichie.herokuapp.com/
+
+2. Github links: 
+https://github.com/kinamichie/cse341-node
+https://github.com/kinamichie/cse341-project
+
+3. The elements of the application are all functioning.
+4. The pieces are all working correctly as far as I can tell.
+5. This was a challenging week. I just the the MongoDb to work without any issues when it was all changed again. I guess the coolest thing I learned was how to make the changes for the database.
+6. I have to admit that with the changes we made this week, it really confused me. I feel like where I was understanding things more, I am now lost more than ever. What to change? I have no clue. It was just alot to process.
+7. 4
+8. I really only have the basics in there right now. It's all I could do to get through the assignment this week due to how long it took. Extras will have to wait until its not such a huge assignment.
