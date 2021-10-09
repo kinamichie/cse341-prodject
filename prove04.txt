@@ -5,9 +5,9 @@ https://cse341-kinamichie.herokuapp.com/
 https://github.com/kinamichie/cse341-node
 https://github.com/kinamichie/cse341-project
 
-3. The elements of the application are all functioning except my orders page. I cannot get it to view but the orders are in my database.
-4. The pieces are working correctly except my orders page. The delete button takes forever, but it works.
+3. The elements of the application are all functioning.
+4. The pieces are working correctly. 
 5. This was a challenging week. I just the the MongoDb to work without any issues when it was all changed again. I guess the coolest thing I learned was how to make the changes for the database.
-6. I have to admit that with the changes we made this week, it really confused me. I feel like where I was understanding things more, I am now lost more than ever. What to change? I have no clue. It was just alot to process.
-7. 3
+6. I have to admit that with the changes we made this week, it really confused me. I felt like where I was understanding things more, I am now lost more than ever. What to change? I have no clue. It was just alot to process.
+7. 4
 8. I really only have the basics in there right now. It's all I could do to get through the assignment this week due to how long it took. Extras will have to wait until its not such a huge assignment.
