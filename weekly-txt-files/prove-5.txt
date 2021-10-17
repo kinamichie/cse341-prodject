@@ -1,0 +1,13 @@
+1. Heroku links: https://cse341-node-michie.herokuapp.com/
+https://cse341-kinamichie.herokuapp.com/
+
+2. Github links: 
+https://github.com/kinamichie/cse341-node
+https://github.com/kinamichie/cse341-project
+
+3. My project is coming along nicely and as far as I can tell it is working properly.
+4. I think everything is working. I have been testing it.
+5. The coolest thing I learned this week was working with sessions. 
+6. This was an alright assignment.
+7. 4
+8. I feel its working correctly but I always feel like I'm missing something.
