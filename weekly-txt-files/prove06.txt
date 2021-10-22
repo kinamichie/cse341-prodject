@@ -1,0 +1,15 @@
+1. Heroku links: https://cse341-node-michie.herokuapp.com/
+https://cse341-kinamichie.herokuapp.com/
+
+2. Github links: 
+https://github.com/kinamichie/cse341-node
+https://github.com/kinamichie/cse341-project
+
+*I had to add make my node repository private. Please let me know if there are any issues to access this.
+
+3. All elements of my application are functioning.
+4. As far as I know all elements are working.
+5. The "coolest" thing I learned this week was to add the 500 error page. That was new to me.
+6. I don't think I would change anything this week. It made a lot of sense.
+7. 4
+8. I didn't really go above and beyond. I feel that I am doing all I can just to try to understand how things work and make them work.
